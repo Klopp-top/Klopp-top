@@ -33,7 +33,7 @@
 ### 🏆 Key Achievements
 
 - 🥇 **FTC Off-Season Dubai** — *Finalist Alliance (2nd Place)* | Team **Reckless #25444**
-- 🌍 **WRO World Finals (Singapore)** — *World Finalist (Top 35 globally)* | Team **Al Cringe**
+- 🇸🇬 **WRO World Finals (Singapore)** — *World Finalist (Top 35 globally)* | Team **Al Cringe**
 - 🇵🇷 **WRO World Finals (Puerto Rico)** — *National Representative* | Team **Al Cringe**
 - 🏆 **Dominant National Competitor** — Multiple-time champion across national robotics & hardware design tournaments.
 
