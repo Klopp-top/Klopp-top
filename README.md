@@ -32,6 +32,7 @@
 
 ### 🏆 Key Achievements
 
+- 🇰🇿 **FTC Almaty Tech Cup 2025** — *Competitor & Lead Programmer* (top - 10) | Team **Al-Cringe #25444**
 - 🥇 **FTC Off-Season Dubai** — *Finalist Alliance (2nd Place)* | Team **Reckless #25444**
 - 🇸🇬 **WRO World Finals (Singapore)** — *World Finalist (Top 35 globally)* | Team **Al Cringe**
 - 🇵🇷 **WRO World Finals (Puerto Rico)** — *National Representative* | Team **Al Cringe**
