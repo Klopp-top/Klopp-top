@@ -9,6 +9,7 @@
 - 🏆 **Lead Programmer & Systems Engineer** for **Al Cringe** (WRO) and **Reckless #25444** (FTC).
 - 🌍 **International Competitor:** 2x WRO World Finalist & FTC Dubai Finalist Alliance Winner.
 - 🎓 **Goal:** Pursuing a B.Sc. in Mechatronics Engineering at the University of Nottingham.
+- 💻 Beyond competitions, I build a wide range of personal & freelance projects — computer vision systems, iOS apps, and embedded firmware. Check my pinned repos below for a sample.
 
 ---
 
@@ -37,6 +38,12 @@
 - 🇸🇬 **WRO World Finals (Singapore)** — *World Finalist (Top 35 globally)* | Team **Al Cringe**
 - 🇵🇷 **WRO World Finals (Puerto Rico)** — *National Representative* | Team **Al Cringe**
 - 🏆 **Dominant National Competitor** — Multiple-time champion across national robotics & hardware design tournaments.
+
+---
+
+### 📌 More Projects
+
+This is just a slice of what I've built — I've got a growing list of side projects spanning computer vision, mobile apps, and embedded systems. Pinned repos show the highlights; more keep getting added.
 
 ---
 
