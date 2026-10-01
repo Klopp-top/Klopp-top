@@ -8,7 +8,7 @@
 - 🤖 **Mechatronics & Embedded Systems Developer** focused on autonomous robotics, mobile systems, and control software.
 - 🏆 **Lead Programmer & Systems Engineer** for **Al Cringe** (WRO) and **Reckless #25444** (FTC).
 - 🌍 **International Competitor:** 2x WRO World Finalist & FTC Dubai Finalist Alliance Winner.
-- 🎓 **Goal:** Pursuing a B.Sc. in Mechatronics Engineering at the University of Nottingham.
+- 🎓 **Goal:** Pursuing a B.Sc. in Mechatronics Engineering at the University.
 - 💻 Beyond competitions, I build a wide range of personal & freelance projects — computer vision systems, iOS apps, and embedded firmware. Check my pinned repos below for a sample.
 
 ---
